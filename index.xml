@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portofolio on My Portofolio</title>
+    <link>https://ayuradha.github.io/Radha_Portofolio/</link>
+    <description>Recent content in Data Science Portofolio on My Portofolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://ayuradha.github.io/Radha_Portofolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: Image Classification</title>
+      <link>https://ayuradha.github.io/Radha_Portofolio/post/project-3/</link>
+      <pubDate>Tue, 30 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://ayuradha.github.io/Radha_Portofolio/post/project-3/</guid>
+      <description>Skin cancer is a type of cancer that is characterized by abnormal cell growth in the epidermis, such as the appearance of bumps, spots, or moles with abnormal shape and size. Skin cancers develop due to exposure to Ultra-Violet (UV) radiation which causes changes in the genetic material namely the DNA composition. In this project I use convolutional neural network (CNN) using tensorflow for processing the images of skin cancer. For the website i use streamlit and deployed the model on Heroku.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Online Shopper Intention</title>
+      <link>https://ayuradha.github.io/Radha_Portofolio/post/project-2/</link>
+      <pubDate>Sat, 30 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://ayuradha.github.io/Radha_Portofolio/post/project-2/</guid>
+      <description>This case study used online shopper intention datasets to predict the visitors of online platforms are likely to increase the revenue. I have tried to perform EDA through various visualizations and feature selection This case study also implements Logistic Regression, Decision Tree, and Random Forest algorithms to determine visitors of online platforms are likely to increase the revenue
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ayuradha.github.io/Radha_Portofolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayuradha.github.io/Radha_Portofolio/contact/</guid>
+      <description>   Platform URL     LinkedIn: https://www.linkedin.com/in/radha-ayu-iswari-a1a58117b/   GitHub: https://github.com/ayuradha    </description>
+    </item>
+    
+    <item>
+      <title>Project I: Life Expectancy (Clustering &amp; PCA ) </title>
+      <link>https://ayuradha.github.io/Radha_Portofolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayuradha.github.io/Radha_Portofolio/post/project-1/</guid>
+      <description>Making Exploratory Data Analysis For Life Expectation Dataset Clustering Two Variables (Adult Mortality and BMI) PCA Analysis For Life Expectation Dataset    Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
